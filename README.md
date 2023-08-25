@@ -1,3 +1,5 @@
 # AngularIntroduction
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vytfbl)
+## Basic E-Commerce Store
+
+Practice Angular Application
