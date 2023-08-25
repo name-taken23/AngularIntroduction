@@ -1,5 +1,5 @@
-# AngularIntroduction
+# Angular Introduction
 
-## Basic E-Commerce Store
+**Basic E-Commerce Store**
 
 Practice Angular Application
